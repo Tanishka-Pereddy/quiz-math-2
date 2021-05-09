@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(152, 91, 233);
+  }
+.login_div1, .login_div2 {
+    background-image: url('Background img 1.jpeg');
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+#word {
+    width: 60%;
+}
+#output {
+    background : paleturquoise;
+    border-radius : 30px;
+    border-top: 10px solid purple;
+    padding : 10px;
+    float: none;
+    text-align : left;
+}
